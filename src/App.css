@@ -38,8 +38,8 @@ section.pricing {
   opacity: 0.7;
 }
 
-.fas fa-check{
-  font-weight: bold !important;
+#bold{
+  font-weight: bold;
 }
 
 .pricing .btn {
